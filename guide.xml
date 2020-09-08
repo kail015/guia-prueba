@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL ANTIGUA">
+    <display-name lang="es">CANAL ANTIGUA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/antigua-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200907003000 -0500" stop="20200907010000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200907010000 -0500" stop="20200907020000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Se Ha Dicho</title>
+  </programme>
+  <programme start="20200907020000 -0500" stop="20200907023000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20200907023000 -0500" stop="20200907030000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">35 MM</title>
+  </programme>
+  <programme start="20200907030000 -0500" stop="20200907034500 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Se Ha Dicho</title>
+  </programme>
+  <programme start="20200907034500 -0500" stop="20200907043000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Se Ha Dicho</title>
+  </programme>
+  <programme start="20200907043000 -0500" stop="20200907050000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Da' Flow</title>
+  </programme>
+  <programme start="20200907050000 -0500" stop="20200907053000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Back to the 80s</title>
+  </programme>
+  <programme start="20200907053000 -0500" stop="20200907063000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Teacher de inglés</title>
+  </programme>
+  <programme start="20200907063000 -0500" stop="20200907070000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200907070000 -0500" stop="20200907083000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Vida real - Vaya con Dios</title>
+  </programme>
+  <programme start="20200907083000 -0500" stop="20200907110000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Matutino express</title>
+  </programme>
+  <programme start="20200907110000 -0500" stop="20200907120000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Teacher de inglés</title>
+  </programme>
+  <programme start="20200907120000 -0500" stop="20200907123000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">El camino antiguo</title>
+  </programme>
+  <programme start="20200907123000 -0500" stop="20200907130000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Maratón Friends</title>
+  </programme>
+  <programme start="20200907130000 -0500" stop="20200907140000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Se Ha Dicho</title>
+  </programme>
+  <programme start="20200907140000 -0500" stop="20200907150000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Noticiero a la 100 PM</title>
+  </programme>
+  <programme start="20200907150000 -0500" stop="20200907153000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20200907153000 -0500" stop="20200907160000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20200907160000 -0500" stop="20200907163000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Casa de dios</title>
+  </programme>
+  <programme start="20200907163000 -0500" stop="20200907170000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Maratón Friends</title>
+  </programme>
+  <programme start="20200907170000 -0500" stop="20200907180000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Se Ha Dicho</title>
+  </programme>
+  <programme start="20200907180000 -0500" stop="20200907190000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200907190000 -0500" stop="20200907200000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">La promesa</title>
+  </programme>
+  <programme start="20200907200000 -0500" stop="20200907203000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Noticias Antigua</title>
+  </programme>
+  <programme start="20200907203000 -0500" stop="20200907210000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">La dona</title>
+  </programme>
+  <programme start="20200907210000 -0500" stop="20200907213000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">D-360</title>
+  </programme>
+  <programme start="20200907213000 -0500" stop="20200907214500 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Noti Expres</title>
+  </programme>
+  <programme start="20200907214500 -0500" stop="20200907233000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">A las 845</title>
+  </programme>
+  <programme start="20200907233000 -0500" stop="20200908000000 -0500" channel="CANAL ANTIGUA">
+    <title lang="es">Casa de dios</title>
+  </programme>
+</tv>
